@@ -23,6 +23,7 @@ Bem-vinda ao meu GitHub! Aqui você encontra projetos focados em **Java**, **Fro
 ## 🕹️ GitHub Action: Animação Pac-Man nos Commits
 
 ### 🟣 Pac-Man dos meus commits
-[Pac-Man](https://raw.githubusercontent.com/TatianeGomes-Dev/TatianeGomes-Dev/output/dist/pacman-contribution-graph-dark.svg)
+
+![Pac-Man](https://raw.githubusercontent.com/TatianeGomes-Dev/TatianeGomes-Dev/output/dist/pacman-contribution-graph-dark.svg)
 
 
