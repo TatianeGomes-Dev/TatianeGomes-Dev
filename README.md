@@ -1,14 +1,17 @@
-# 👩‍💻 Tatiane Gomes
 
-Bem-vinda ao meu GitHub! Aqui você encontra projetos focados em **Java**, **Front-End** e minha jornada na área de **Tecnologia**. Estou em transição de carreira, sempre buscando aprender e compartilhar conhecimento. 🚀
+<h1 align="center">👩‍💻 Tatiane Gomes</h1>
+<p align="center">Desenvolvedora</p>
+Bem-vinda ao meu GitHub! Aqui você encontra meus projetos, sempre buscando aprender e compartilhar conhecimento. 🚀
 
 ## 🎯 Sobre mim
 
 - 💻 Desenvolvedora em formação
 - 📚 Estudando Análise e Desenvolvimento de Sistemas
-- 🌎 Apaixonada por tecnologia, design e inovação
-- ✈️ Já morei nos EUA fazendo intercâmbio
-- 📍 Olinda - PE
+- 🌎 Apaixonada por tecnologia, Inteligência Artificial e Inovação
+- ✈️ Já morei nos EUA de 2021 à 2023 fazendo intercâmbio
+- 📍 Sou Pernambucana de Olinda - PE
+- 🐕 Sou mãe de Amy
+- 👩🏻‍❤️‍👩🏻 Casada com Ananda
 
 ## 🛠️ Tecnologias
 
@@ -20,10 +23,19 @@ Bem-vinda ao meu GitHub! Aqui você encontra projetos focados em **Java**, **Fro
 
 ---
 
-## 🕹️ GitHub Action: Animação Pac-Man nos Commits
+### 🕹️ Pac-Man dos meus commits
 
-### 🟣 Pac-Man dos meus commits
 
-![Pac-Man](https://raw.githubusercontent.com/TatianeGomes-Dev/TatianeGomes-Dev/output/dist/pacman-contribution-graph-dark.svg)
 
+<img src="https://raw.githubusercontent.com/TatianeGomes-Dev/TatianeGomes-Dev/output/pacman-contribution-graph-dark.svg" alt="Pac-Man dos meus commits" />
+
+
+---
+
+### 📬 Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatianegomesdev/)
+[![Email](https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tatianegomes.dev@gmail.com)
+
+---
 
